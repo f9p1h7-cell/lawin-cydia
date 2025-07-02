@@ -27,6 +27,7 @@ My personal Cydia repo containing tweaks that I use.
 - iFile/MTerminal icon fix v4.0.1 by OldWorldOrder.
 - Retranslate v1.0.0 by Preloading.
 - AppSync for iOS 4 v1.2.2 by [Karen/あけみ](https://cydia.akemi.ai/).
+- redeb v1.0.3 by T.Herak.
 
 ### Utilities
 - PreferenceLoader v2.2.6 by [DHowett](https://github.com/DHowett/preferenceloader).
